@@ -1,13 +1,13 @@
 ## Hi, I'm Samarth
 
-I'm in my final year of B.Tech in Electronics & Computer Science Engineering at KIIT, Bhubaneswar (graduating 2027).
+Final-year B.Tech student in Electronics & Computer Science Engineering at KIIT, Bhubaneswar, graduating in 2027. I'm looking for full-time software and AI engineering roles.
 
-Since May 2026 I've been a software development intern at NeuralCare, where I work on AI agents and backend services for a healthcare assistant. Most of that work is in private repos, so what's here are my own projects.
+From May to October 2026 I was a software development intern at NeuralCare, working on a multi-agent healthcare assistant. I built the patient-records MCP server on Google Cloud Run that the agents use to store and search medical documents, and the agent that phones clinics, with retries for failed calls. That code is private, so the repos here are my own projects.
 
 ### Projects
 
-- [nl-query-system](https://github.com/sam2005-create/nl-query-system): ask a student database questions in plain English and get SQL plus the results back. Flask, SQLite, rule-based parsing.
-- [chatbot-with-memory](https://github.com/sam2005-create/chatbot-with-memory): a command-line chatbot that remembers your conversation in SQLite and answers factual questions from Wikipedia.
+- [nl-query-system](https://github.com/sam2005-create/nl-query-system): type a question about a student database in plain English and get the SQL and the results back. Flask, SQLite, a rule-based parser and pytest tests.
+- [chatbot-with-memory](https://github.com/sam2005-create/chatbot-with-memory): a command-line chatbot that keeps your conversation in SQLite and looks up factual answers on Wikipedia.
 
 ### What I use
 
